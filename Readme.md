@@ -1,5 +1,4 @@
-### Ce programme permet d'imprimer un site 
-ou une image depuis un Url
+### Ce programme permet d'imprimer un site ou une image depuis un Url
 
 
 ## commandes:
