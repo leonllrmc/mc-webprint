@@ -18,7 +18,7 @@ ou une image depuis un Url
 
     `requests`
 
-##### note:  nécessite aussi * Firefox * ou * Firefox devlopper edition * installé
+##### note:  nécessite aussi _Firefox_ ou _Firefox devlopper edition_ installé
 
 À installer via `pip install [nom de la dépendance]`
 
